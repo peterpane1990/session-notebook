@@ -7,21 +7,26 @@ h1 {
     "Lucida Sans", Arial, sans-serif;
   color: brown;
 }
-#nav {
+.nav {
   border: solid 5px lightblue;
+  text-align: center;
 }
+
 a {
   color: brown;
   text-decoration: none;
   font-size: large;
 }
 
-#about-me {
+#about-me,
+#skills,
+#contact {
   border: solid 5px brown;
   border-radius: 20px 20px;
+  padding: 20px;
 }
 
-#skillset {
-  border: solid 5px brown;
-  border-radius: 5px;
+img {
+  border: dotted 5px black;
+  border-radius: 10px;
 }
