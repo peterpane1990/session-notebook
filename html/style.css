@@ -1,0 +1,27 @@
+body {
+  background-color: beige;
+}
+
+h1 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: brown;
+}
+#nav {
+  border: solid 5px lightblue;
+}
+a {
+  color: brown;
+  text-decoration: none;
+  font-size: large;
+}
+
+#about-me {
+  border: solid 5px brown;
+  border-radius: 20px 20px;
+}
+
+#skillset {
+  border: solid 5px brown;
+  border-radius: 5px;
+}
